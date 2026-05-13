@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6XALHHK9S"
-#define BLYNK_TEMPLATE_NAME "Power Monitor"
-#define BLYNK_AUTH_TOKEN "-vnw2YRgAyK_62T30MVtR6Up9fL2KO-Q"
+#define BLYNK_TEMPLATE_ID "TMPL622T2WIQV"
+#define BLYNK_TEMPLATE_NAME "Power Monitoring"
+#define BLYNK_AUTH_TOKEN "z4wt7_0QEr-pfGcPk7_oC4WWI9fDauBG"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
